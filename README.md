@@ -1,2 +1,5 @@
-# PCTC-Solutions
-An in-progress collection of all the Perse Coding Team Challenge questions - code solutions and accompanying videos.
+# PCTC Solutions
+
+Under construction :)
+
+Reach out to me on Twitter/X if you'd like to contribute!
