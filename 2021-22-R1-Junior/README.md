@@ -1,1 +1,1 @@
-[Video walkthroughs](https://studio.youtube.com/playlist/PLBODEqHSvpFJDWnAoDIbTl1gCeLEVgZht)
+[Video walkthroughs](https://www.youtube.com/playlist?list=PLBODEqHSvpFJDWnAoDIbTl1gCeLEVgZht)
