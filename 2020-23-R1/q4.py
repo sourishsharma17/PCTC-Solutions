@@ -1,18 +1,14 @@
-a = int(input())
-b = int(input())
-c = int(input())
+firstname = input()
+surname = input()
 
-total = 0
+username = ""
 
-total += a//2
-a -= a//2
+username += firstname[0].lower()
+username += surname[0].lower()
+username += surname[-1].lower()
+username += str(len(firstname))
 
-b += a
-b -= b//2
+if len(set(username[:3])) != 3:
+  username += "x"
 
-c += b
-c -= c//2
-
-total += c
-
-print(total)
+print(username)
