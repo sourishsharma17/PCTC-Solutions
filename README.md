@@ -12,7 +12,7 @@ Currently working on:
 ---
 ### Tutoring [ad]
 
-I offer coding and competitive programming tutoring.
+I offer coding and competitive programming training.
 
 I can make you damn good in just 20 lessons. 
 
