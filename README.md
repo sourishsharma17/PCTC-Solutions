@@ -3,9 +3,11 @@
 Each folder has Python 3 solutions to all the problems, and the README file contains a link to the [YouTube playlist](https://www.youtube.com/@sourishsharma17/playlists) with video explanations for the code.
 
 Currently working on:
-- 2023-24 R2 (Q9)
 - 2023-24 R1 (Junior + Senior)
 - 2021-22 R2
+
+I won't stop until I've done them all :)
+
 
 <br>
 
